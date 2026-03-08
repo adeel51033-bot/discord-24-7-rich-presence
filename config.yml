@@ -10,9 +10,9 @@ details: "Watching SrvX"
 state: "Founder of Srvx"
 
 # Activity Images
-largeImageKey: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg4NmVuODR1dW0yamwzb3FrcDllaXJoNXg0OTAxZTE2dGxyNjVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"
+largeImageKey: "mascot"
 largeImageText: "SrvX"
-smallImageKey: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRnNDd5dmNjOW8zanNxc290bmNkcTE2cnZvNHZpc2djZTUzY2I3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif"
+smallImageKey: "mascot"
 smallImageText: "Owner SrvX"
 
 # Activity URL (optional, works only with certain types)
