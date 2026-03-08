@@ -1,30 +1,30 @@
 # Replace with your Discord Application ID
-application_id: "1311204057490259979"
+application_id: "1476506786738606110"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
 type: 3
 
 # Activity Details
-name: "Youtube"
-details: "Watching Nexos Labs"
-state: "Subscribe"
+name: "i dont need to be seen."
+details: "Watching SrvX"
+state: "Founder of Srvx"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageKey: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg4NmVuODR1dW0yamwzb3FrcDllaXJoNXg0OTAxZTE2dGxyNjVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"
+largeImageText: "SrvX"
+smallImageKey: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRnNDd5dmNjOW8zanNxc290bmNkcTE2cnZvNHZpc2djZTUzY2I3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif"
+smallImageText: "Owner SrvX"
 
 # Activity URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: "https://guns.lol/srvbhai01"
 
 # Activity Buttons (optional)
 buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+  - name: "Discord"
+    url: "https://guns.lol/srvbhai01"
+  - name: "Other info"
+    url: "https://guns.lol/srvbhai01"
 
 # Activity Custom status
-custom_status: "Watching tutorials"
+custom_status: "Watching"
 custom_emoji: "🔥"
